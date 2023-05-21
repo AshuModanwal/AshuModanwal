@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Modanwal</h1>
 <h3 align="center">A Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Ffethica&psig=AOvVaw1BKWhbSUjnedCv0UR6Ib5s&ust=1684727765512000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDL_ZHChf8CFQAAAAAdAAAAABAE"> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 - 🌱 I’m currently learning **Full Stack web Development**
 
