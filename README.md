@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashumodanwal&show_icons=true&locale=en&layout=compact" alt="ashumodanwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashumodanwal&" alt="ashumodanwal" /></p>
-<p> <img src="https://leetcard.jacoblin.cool/AshutoshModanwal?theme=dark&font=Unica%20One&ext=heatmap" /> </p>
+<p> <img src="https://leetcard.jacoblin.cool/AshutoshModanwal?theme=dark&font=Dancing_Script%20One&ext=heatmap" /> </p>
