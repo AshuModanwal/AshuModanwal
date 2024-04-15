@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashumodanwal&show_icons=true&locale=en&layout=compact" alt="ashumodanwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashumodanwal&" alt="ashumodanwal" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/AshutoshModanwal)
